@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiranmvarma25" alt="kiranmvarma25" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, CI/CD Jenkins**
+- 🌱 I’m currently building an **Application** and planinng to release into the market
 
 - 👨‍💻 All of my projects are available at [https://kiran-varma-portfolio.netlify.app/](https://kiran-varma-portfolio.netlify.app/)
 
